@@ -1,4 +1,4 @@
-Standalone Interactive Exercise: Speech Assessment
+Standalone Interactive Exercise: Swallow Assessment
 ==========
 
 ##### About swallow assessment
