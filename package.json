@@ -1,7 +1,7 @@
 {
   "name": "swallowassessment-pack",
   "version": "0.1.1",
-  "description": "Learn more about diagnoses treated by a speech-language pathologist.",
+  "description": "Find out about age-specific behaviors warranting a swallow assessment",
   "main": "src/index.js",
   "scripts": {
     "serve": "webpack-dev-server --hot --inline --open",
