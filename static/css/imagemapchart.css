@@ -1,0 +1,150 @@
+.slpchart02 #chartcontent #charttext .textactive {
+    display: block;
+}
+
+.slpchart02 #chartcontent #charttext div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.slpchart02 #chartcontent #charttext div ul {
+    display: block;
+    padding: 71px 0 0 0;
+    margin: 0 0 0 20px;
+    border: 0;
+    list-style: none;
+}
+
+.slpchart02 #chartcontent #charttext div ul li {
+    display: block;
+    padding: 0 0 4px 14px;
+    margin: 0 0 4px 0;
+    border: 0;
+    list-style: none;
+    font-size: 14px;
+}
+
+.slpchart02 #imagemap_shim {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    z-index: 700;
+    display: block;
+}
+
+.slpchart02 #imagemap_shim {
+    width: 341px;
+    height: 261px;
+}
+
+.slpchart02 {
+    position: relative;
+    width: 670px;
+    height: 374px;
+    background: url('../img/slpchart02_bg.jpg') no-repeat 0 0;
+}
+
+.slpchart02 #chartcontent {
+    position: absolute;
+    top: 113px;
+    left: 0;
+    width: 670px;
+    height: 261px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.slpchart02 #chartcontent #charttext {
+    width: 329px;
+    height: 261px;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: normal 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+}
+
+.slpchart02 #chartcontent #chartnav {
+    position: relative;
+    width: 341px;
+    height: 261px;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.slpchart02 #chartcontent #chart_nav0mo {
+    position: absolute;
+    top: 154px;
+    left: 7px;
+    z-index: 300;
+    width: 126px;
+    height: 87px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.slpchart02 #chartcontent #chart_nav9mo {
+    position: absolute;
+    top: 101px;
+    left: 117px;
+    z-index: 200;
+    width: 138px;
+    height: 136px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.slpchart02 #chartcontent #chart_nav15mo {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    z-index: 100;
+    width: 130px;
+    height: 236px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.infotext_default {display: none;}
+.infotext_default div.instructions {
+    padding: 40px 0 0 34px !important;
+    margin: 0 0 0 20px !important
+    border: 0;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.nav0mo {background: url('../img/slpchart_nav0mo.png') no-repeat 0 0;}
+.nav0mo-hover {background: url('../img/slpchart_nav0mo.png') no-repeat -127px 0px; cursor: pointer;}
+.nav0mo-active {background: url('../img/slpchart_nav0mo.png') no-repeat -254px 0px; cursor: pointer;}
+.text0mo {background: url('../img/slpchart_text0mo.png') no-repeat 0 0; display: none;}
+.text0mo li {background: url('../img/bullet_allyrs.png') no-repeat 0 3px;}
+
+.nav9mo {background: url('../img/slpchart_nav9mo.png') no-repeat 0 0;}
+.nav9mo-hover {background: url('../img/slpchart_nav9mo.png') no-repeat -139px 0px; cursor: pointer;}
+.nav9mo-active {background: url('../img/slpchart_nav9mo.png') no-repeat -278px 0px; cursor: pointer;}
+.text9mo {background: url('../img/slpchart_text9mo.png') no-repeat 0 0; display: none;}
+.text9mo li {background: url('../img/bullet_allyrs.png') no-repeat -340px 3px;}
+
+.nav15mo {background: url('../img/slpchart_nav15mo.png') no-repeat 0 0;}
+.nav15mo-hover {background: url('../img/slpchart_nav15mo.png') no-repeat -131px 0px; cursor: pointer;}
+.nav15mo-active {background: url('../img/slpchart_nav15mo.png') no-repeat -262px 0px; cursor: pointer;}
+.text15mo {background: url('../img/slpchart_text15mo.png') no-repeat 0 0; display: none;}
+.text15mo li {background: url('../img/bullet_allyrs.png') no-repeat -680px 3px;}
