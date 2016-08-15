@@ -1,3 +1,7 @@
+.interactive-container {
+    min-width: 670px;
+}
+
 .slpchart02 #chartcontent #charttext .textactive {
     display: block;
 }
@@ -45,6 +49,7 @@
     position: relative;
     width: 670px;
     height: 374px;
+    margin: 0 auto;
     background: url('../img/slpchart02_bg.jpg') no-repeat 0 0;
 }
 
