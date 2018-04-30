@@ -1,6 +1,8 @@
 Standalone Interactive Exercise: Swallow Assessment [![Build Status](https://travis-ci.org/ccnmtl/swallowassessment-pack.svg?branch=master)](https://travis-ci.org/ccnmtl/swallowassessment-pack)
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/swallowassessment-pack.svg)](https://greenkeeper.io/)
+
 ##### About swallow assessment
 Infographic to explore age-specific behaviors warranting a swallow assessment
 
