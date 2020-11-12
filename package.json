@@ -4,7 +4,7 @@
   "description": "Find out about age-specific behaviors warranting a swallow assessment",
   "main": "src/index.js",
   "scripts": {
-    "serve": "webpack-dev-server --hot --inline --open",
+    "serve": "webpack serve --hot --inline --mode development",
     "test": "mocha-chrome test/view-test.html",
     "build": "webpack && webpack --config test/test.webpack.config.js"
   },
