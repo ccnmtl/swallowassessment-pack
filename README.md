@@ -1,4 +1,6 @@
-Standalone Interactive Exercise: Swallow Assessment [![Build Status](https://travis-ci.org/ccnmtl/swallowassessment-pack.svg?branch=master)](https://travis-ci.org/ccnmtl/swallowassessment-pack)
+[![Actions Status](https://github.com/ccnmtl/swallowassessment-pack/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/swallowassessment-pack/actions)
+
+Standalone Interactive Exercise: Swallow Assessment
 ==========
 
 ##### About swallow assessment
