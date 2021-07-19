@@ -58,7 +58,7 @@
   "dependencies": {
     "backbone": "1.4.0",
     "bootstrap": "^3.3.7",
-    "css-loader": "^5.0.0",
+    "css-loader": "^6.1.0",
     "file-loader": "^6.0.0",
     "imagemapchart": "^0.1.1",
     "jquery": "^3.2.1",
